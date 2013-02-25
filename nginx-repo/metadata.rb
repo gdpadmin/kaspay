@@ -1,6 +1,6 @@
 name             'nginx-repo'
-maintainer       'YOUR_COMPANY_NAME'
-maintainer_email 'YOUR_EMAIL'
+maintainer       'GDP Labs'
+maintainer_email 'roy.i.ginting@gdpventure.com'
 license          'All rights reserved'
 description      'Installs/Configures nginx-repo'
 long_description IO.read(File.join(File.dirname(__FILE__), 'README.md'))
